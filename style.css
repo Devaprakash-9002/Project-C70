@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#campus {
+    font-size: 20px;
+    font-family: Cambria;
+    color: blue;
+}
+
+marquee {
+    font-family: cambria;
+    size: 15ox;
+    color: blueviolet;
+}
+
+#heading {
+    text-align: center;
+    color: crimson;
+    background-color: bisque;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.infos {
+    font-size: 20px;
+    font-family: Cambria;
+    color: blue;
+}
+
+kbd {
+    font-size: 25px;
+}
+
+.award-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
